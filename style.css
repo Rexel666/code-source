@@ -52,6 +52,19 @@ h1 {
     font-size: 0.8em;
 }
 
+/* Style général pour les boutons */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px 0;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    width: 200px; /* largeur fixe pour tous les boutons */
+}
+
 .linkedin {
     background-color: #0077b5;
 }
@@ -66,4 +79,9 @@ h1 {
 
 .save-contact {
     background-color: #16a085;
+}
+
+/* Classes pour les icônes, à adapter selon la bibliothèque d'icônes utilisée */
+.icon {
+    padding-right: 5px; /* espace entre l'icône et le texte */
 }
