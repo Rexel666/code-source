@@ -81,7 +81,12 @@ h1 {
     background-color: #16a085;
 }
 
+.call {
+    background-color: #4d4d4d; /* Couleur verte typique pour les boutons d'appel */
+}
+
 /* Classes pour les icônes, à adapter selon la bibliothèque d'icônes utilisée */
 .icon {
     padding-right: 5px; /* espace entre l'icône et le texte */
 }
+
