@@ -90,23 +90,18 @@ h1 {
     padding-right: 5px; /* espace entre l'icône et le texte */
 }
 
-.language-switcher {
-    position: fixed;
-    left: 50%; /* Centrer horizontalement */
-    top: 85%; /* Centrer verticalement */
-    transform: translate(-50%, -50%); /* Ajuster précisément le centre du div */
-    z-index: 1000; /* S'assure que le menu reste au-dessus des autres éléments de la page */
-}
+/* Switche language buton */
+
 
 .language-switcher select {
     padding: 5px 10px;
     background-color: white;
-    color: #4CAF50;
-    border: 2px solid #4CAF50;
+    color: #181918;
+    border: 2px solid #141414;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .language-switcher select:hover {
-    border-color: #367c39;
+    border-color: #080908;
 }
