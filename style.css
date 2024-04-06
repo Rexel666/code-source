@@ -93,7 +93,7 @@ h1 {
 .language-switcher {
     position: fixed;
     left: 50%; /* Centrer horizontalement */
-    top: 75%; /* Centrer verticalement */
+    top: 85%; /* Centrer verticalement */
     transform: translate(-50%, -50%); /* Ajuster précisément le centre du div */
     z-index: 1000; /* S'assure que le menu reste au-dessus des autres éléments de la page */
 }
